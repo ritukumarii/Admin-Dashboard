@@ -27,7 +27,7 @@ Handles some aspects that the admin looks in.
 ## ADMIN PROFILE
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Admin%20Profile.jpg)
 
 
 
