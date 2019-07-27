@@ -72,7 +72,7 @@ Handles some aspects that the admin looks in.
 
 
 
-## STUDENT REGISTRATION
+## STUDENT REGISTERED
 
 
 ![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Student%20Registered.jpg)
@@ -84,7 +84,7 @@ Handles some aspects that the admin looks in.
 
 
 
-## FACULTY REGISTERED
+## FACULTY 
 
 
 ![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Faculty%20Registered.jpg)
