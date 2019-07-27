@@ -87,7 +87,7 @@ Handles some aspects that the admin looks in.
 ## FACULTY REGISTERED
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Faculty%20Registered.jpg)
 
 
 
@@ -177,7 +177,7 @@ Handles some aspects that the admin looks in.
 ## REQUIREMENTS BY DIFFERENT DEPARTMENTS
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Requirements.jpg)
 
 
 
