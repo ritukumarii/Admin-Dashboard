@@ -7,10 +7,11 @@ Handles some aspects that the admin looks in.
 
 
 
+
 ## LOGIN PAGE
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/login.jpg)
 
 
 
