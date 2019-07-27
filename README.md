@@ -35,7 +35,7 @@ Handles some aspects that the admin looks in.
 ## FACULTY REGISTRATION
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/faculty%20registration.jpg)
 
 
 
