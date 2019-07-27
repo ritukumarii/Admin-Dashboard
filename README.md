@@ -19,7 +19,7 @@ Handles some aspects that the admin looks in.
 ## DASHBOARD
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Dashboardd.jpg)
 
 
 
