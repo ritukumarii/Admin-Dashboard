@@ -132,7 +132,7 @@ Handles some aspects that the admin looks in.
 
 
 
-## COMPLAIN
+## COMPLAINT
 
 
 ![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Complain.jpg)
