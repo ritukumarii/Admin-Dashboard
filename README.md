@@ -8,10 +8,18 @@ Handles some aspects that the admin looks in.
 
 
 
+
+
+
+
 ## LOGIN PAGE
 
 
 ![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/login.jpg)
+
+
+
+
 
 
 
@@ -24,10 +32,18 @@ Handles some aspects that the admin looks in.
 
 
 
+
+
+
+
 ## ADMIN PROFILE
 
 
 ![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Admin%20Profile.jpg)
+
+
+
+
 
 
 
@@ -40,10 +56,18 @@ Handles some aspects that the admin looks in.
 
 
 
+
+
+
+
 ## STOCK ENTRY
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Stock%20Entry.jpg)
+
+
+
+
 
 
 
@@ -51,15 +75,23 @@ Handles some aspects that the admin looks in.
 ## STUDENT REGISTRATION
 
 
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Student%20Registered.jpg)
+
+
+
+
+
+
+
+
+## FACULTY REGISTERED
+
+
 ![Image]()
 
 
 
 
-## FACULTY REGISTRATION
-
-
-![Image]()
 
 
 
@@ -67,7 +99,11 @@ Handles some aspects that the admin looks in.
 ## STATISTICS
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Statistics.jpg)
+
+
+
+
 
 
 
@@ -75,7 +111,11 @@ Handles some aspects that the admin looks in.
 ## CURRICULUM FEEDBACK
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Curriculum%20Feedback.jpg)
+
+
+
+
 
 
 
@@ -83,7 +123,11 @@ Handles some aspects that the admin looks in.
 ## PROFESSOR FEEDBACK
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Professor%20Feedback.jpg)
+
+
+
+
 
 
 
@@ -91,7 +135,17 @@ Handles some aspects that the admin looks in.
 ## COMPLAIN
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Complain.jpg)
+
+
+
+
+
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Complain1.jpg)
+
+
+
+
 
 
 
@@ -99,7 +153,11 @@ Handles some aspects that the admin looks in.
 ## CONTACT
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/contact.jpg)
+
+
+
+
 
 
 
@@ -107,7 +165,11 @@ Handles some aspects that the admin looks in.
 ## FEE SUBMISSION DETAILS
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Fee%20Submission%20Details.jpg)
+
+
+
+
 
 
 
@@ -120,11 +182,27 @@ Handles some aspects that the admin looks in.
 
 
 
+
+
+
+
 ## STOCK DETAILS
 
 
-![Image]()
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Stock%20Details.jpg)
 
+
+
+
+
+
+
+
+
+## LOGOUT
+
+
+![Image](https://github.com/keen-soul/Admin-Dashboard/blob/master/Logout.jpg)
 
 
 
